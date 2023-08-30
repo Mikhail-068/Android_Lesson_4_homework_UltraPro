@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ml-kit-test</string>
+    <string name="btn_text">Распознать текст</string>
+    <string name="image">image</string>
+</resources>
